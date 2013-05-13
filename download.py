@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import libtorrent as lt
 import time
 import sys
