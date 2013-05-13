@@ -1,0 +1,2 @@
+How to install libtorrent on Ubuntu:
+	sudo apt-get install python-libtorrent
